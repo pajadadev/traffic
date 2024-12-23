@@ -67,7 +67,7 @@ if __name__ == "__main__":
 
     # Menjalankan loop untuk setiap URL
     iteration = 1
-    max_iterations = 100  # Batas jumlah iterasi
+    max_iterations = 1000  # Batas jumlah iterasi
 
     while iteration <= max_iterations:
         print(f"Iterasi ke-{iteration}")
